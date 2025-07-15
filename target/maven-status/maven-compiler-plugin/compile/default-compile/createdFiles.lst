@@ -1,0 +1,8 @@
+com\utp\api_gateway\config\OpenApiConfig.class
+com\utp\api_gateway\config\RestTemplateConfig.class
+com\utp\api_gateway\service\GatewayService.class
+com\utp\api_gateway\ApiGatewayApplication.class
+com\utp\api_gateway\controller\GatewayController.class
+com\utp\api_gateway\config\SwaggerAndH2ProxyConfig.class
+com\utp\api_gateway\config\CorsConfig$1.class
+com\utp\api_gateway\config\CorsConfig.class
